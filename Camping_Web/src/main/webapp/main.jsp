@@ -10,7 +10,11 @@
 <body>
 	<div align="center">
 		<hr width="50%" color="tomato">
+<<<<<<< HEAD
          <h2>캠asdsadsadsad</h2>
+=======
+         <h2>캠핑 사이트dd</h2>
+>>>>>>> branch 'main' of https://github.com/imceyen/CampingWeb.git
       <hr width="50%" color="tomato">
    <br><br>
    
