@@ -10,7 +10,7 @@
 <body>
 	<div align="center">
 		<hr width="50%" color="tomato">
-         <h2>캠핑 사이트</h2>
+         <h2>캠핑 사이트dd</h2>
       <hr width="50%" color="tomato">
    <br><br>
    
